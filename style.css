@@ -1,0 +1,83 @@
+#navbar{
+    display: flex;
+    background-color:rgba(0, 0, 0, 0.705);
+justify-content:space-around ;
+padding-left: 80px;
+color: blanchedalmond;
+}
+
+#navbar2{
+    display: flex;
+    background-color: blue;
+justify-content:space-around ;
+padding-left: 80px;
+color: blanchedalmond;
+}
+
+#navbar3{
+    display: flex;
+    background-color: rgb(149, 149, 240);
+justify-content:space-around ;
+padding-left: 80px;
+color: blanchedalmond;
+
+
+}
+
+.btn{
+    background-color: transparent;
+    height: 40px;
+    width: 100px;
+    border-radius: 9px;
+    border: 1px solid white;
+    justify-content: space-around;
+    color: white;
+}
+
+.btn2{
+    background-color: transparent;
+    height: 40px;
+    width: 100px;
+    border-radius: 9px;
+    border: 1px solid white;
+    justify-content: space-around;
+    color: white;
+}
+
+.btn3{
+    background-color: transparent;
+    height: 40px;
+    width: 100px;
+    border-radius: 9px;
+    border: 1px solid white;
+    justify-content: space-around;
+    color: white;
+}
+
+.sea{
+    height: 40px;
+    color: white;
+    border-radius: 9px;
+}
+
+.top{
+    color: blanchedalmond;
+    background-color: darkgreen;
+}
+.one{
+    color: black;
+    background-color: chartreuse;
+}
+.two{
+    color: black;
+    background-color: green;
+}
+table,th,td,tr{
+    border: 2px solid black;
+    border-collapse: collapse;
+}
+#img{
+    background-image: url("bg.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
